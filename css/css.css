@@ -1,6 +1,6 @@
 @charset "UTF-8";
-body{background: url("../../1x/Recurso 4.png");
-background-repeat: no-repeat; background-size: cover;
-	
+body{background-image: url("../images/bg.png");
+background-repeat: no-repeat; background-size:cover; background-attachment: fixed;	opacity: 85%;
 }
-.col-6{mix-blend-mode: multiply;}
+.col-12¨{mix-blend-mode: multiply;}
+#miVideo{mix-blend-mode: multiply;}
