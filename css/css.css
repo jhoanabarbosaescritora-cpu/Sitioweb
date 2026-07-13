@@ -2,5 +2,5 @@
 body{background-image: url("../images/bg.png");
 background-repeat: no-repeat; background-size:cover; background-attachment: fixed;	opacity: 85%;
 }
-.col-12¨{mix-blend-mode: multiply;}
+.col-12¨{mix-blend-mode: multiply; }
 #miVideo{mix-blend-mode: multiply;}
